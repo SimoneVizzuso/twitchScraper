@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.shelf/
+workspace.xml
+usage.statistics.xml
